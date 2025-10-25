@@ -1,0 +1,5 @@
+ id |             nombre             | expediente 
+----+--------------------------------+------------
+  1 | Milton Azareel Cuadra Mezquita | 26114
+(1 row)
+

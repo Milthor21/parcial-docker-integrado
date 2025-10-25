@@ -1,0 +1,5 @@
+
+> parcial-docker-integrado@1.0.0 start
+> node server.js
+
+API escuchando en puerto 3000
